@@ -22,7 +22,8 @@ rest API : pour afficher les articles trouvés
 rest API : pour supprimé 
 
 
-rest API : pour faire le lien entre les deux table "article" & "article_lost" est remplir la table "founded"
+rest API : pour faire le lien entre les deux table "article" & "article_lost" et remplir la table "founded"
+
 Affichage 
 ![image](https://user-images.githubusercontent.com/36532618/154865457-4d46f2da-c1a9-47d7-b092-30a466975fcf.png)
 
